@@ -33,6 +33,6 @@
 
 - [BᴏᴛLɪɴᴋ](https://t.me/TEAM_SMOKER)
 
-- Bᴏᴛ Usᴇʀɴᴀᴍᴇ - `@SessionStringGeneratorRobot`
+- Bᴏᴛ Usᴇʀɴᴀᴍᴇ - `@TEAM_SMOKER`
 
 ━━━━━━━━━━━━━━━━━━━━━━
