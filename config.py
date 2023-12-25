@@ -4,7 +4,7 @@ from data import THE_ALTS
 
 #----------------------------------- REQUIRED CODES --------------------------------------#
 
-API_ID = int(getenv("API_ID", "21750155"))
+API_ID = int(getenv("API_ID", "21750155")
 API_HASH = getenv("API_HASH", "b6de6d142818b53e796b9a6ea570d2a7")
 SESSION1 = getenv("SESSION")
 ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph/file/dfe3bf37f969e4464393b.jpg")
