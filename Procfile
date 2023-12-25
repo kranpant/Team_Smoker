@@ -1,1 +1,1 @@
-worker: https://t.me/TEAM_SMOKER
+worker: python3 main.py
