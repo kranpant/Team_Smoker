@@ -2,13 +2,13 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-# Aʟᴛʀᴏɴ 🖤
+# ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/TEAM_SMOKER)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷](https://t.me/TEAM_SMOKER)
 
 ━━━━━━━━━━━━━━━━━━━━━━
-# Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
+# ADDICTION HEROKU 🚀
 ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴛʀᴏɴ​
 
 - ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
